@@ -1,7 +1,5 @@
 = Game of Streams
 
-Meta repository to accompany my session "Game of Streams: How to tame & get the most from your messaging platforms"
-
 == Maintainer
 
 * Mark Heckler
@@ -10,7 +8,7 @@ Meta repository to accompany my session "Game of Streams: How to tame & get the 
 
 == Purpose
 
-This multi-repo accompanies my session titled *"Game of Streams: How to tame & get the most from your messaging platforms"* and includes all code written within the session and potentially more...star+watch this repo for updates!
+This meta-repo accompanies my session titled *"Game of Streams: How to tame & get the most from your messaging platforms"* and includes all code written within the session and potentially more...star+watch this repo for updates!
 
 == Related repository
 
