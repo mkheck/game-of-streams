@@ -22,4 +22,4 @@ https://github.com/mkheck/LocalMessaging[Scripts I use to create, configure, & r
 
 == Related presentation
 
-https://speakerdeck.com/mkheck/game-of-streams-how-to-tame-and-get-the-most-from-your-messaging-platforms["Game of Streams: How to tame & get the most from your messaging platforms" presentation]
+https://speakerdeck.com/mkheck/game-of-streams["Game of Streams: How to tame & get the most from your messaging platforms" presentation]
