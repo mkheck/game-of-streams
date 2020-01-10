@@ -1,0 +1,21 @@
+= Game of Streams
+
+Meta repository to accompany my session "Game of Streams: How to tame & get the most from your messaging platforms"
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
+* https://twitter.com/mkheck[@mkheck on Twitter]
+
+== Purpose
+
+This multi-repo accompanies my session titled *"Game of Streams: How to tame & get the most from your messaging platforms"* and includes all code written within the session and potentially more...star+watch this repo for updates!
+
+== Related repository
+
+https://github.com/mkheck/LocalMessaging[Scripts I use to create, configure, & run RabbitMQ & Apache Kafka locally in support of this session]
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/game-of-streams["Game of Streams: How to tame & get the most from your messaging platforms" presentation]
