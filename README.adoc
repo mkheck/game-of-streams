@@ -20,6 +20,8 @@ This meta-repo accompanies my session titled *"Game of Streams: How to tame & ge
 
 https://github.com/mkheck/LocalMessaging[Scripts I use to create, configure, & run RabbitMQ & Apache Kafka locally in support of this session]
 
+https://github.com/mkheck/game-of-streams-kotlin[Kotlin version, same capabilities]
+
 == Related presentation
 
 https://speakerdeck.com/mkheck/game-of-streams["Game of Streams: How to tame & get the most from your messaging platforms" presentation]
